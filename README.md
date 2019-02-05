@@ -1,7 +1,7 @@
 # Empirical-Investigation-Of-Code-Comment-Correlation
 The objective of this project is to empirically investigate the correlation between code and comments.
 
-Goals:
+Steps to be performed in the project:
 
 -> Identification of the important/key method present in a source code and the comments associated with those key methods.
 
